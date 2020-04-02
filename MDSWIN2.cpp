@@ -1,5 +1,6 @@
 Time : 3.34 || Mem : 782 || Result : 100%AC
 
+// Link to the problem : https://www.codechef.com/MARCH20B/problems/MDSWIN2/
 
 #include <bits/stdc++.h>
 using namespace std;
