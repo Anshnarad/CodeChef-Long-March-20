@@ -1,6 +1,7 @@
 Time : 0.00 || Mem : 14.9 || Result : 100% AC
 // This Question is my favourite. I personally Recommend to do this!
 
+// Link to the problem : https://www.codechef.com/MARCH20B/problems/ADASHOP2/
 
 #include<iostream>
 #include<vector>
