@@ -1,6 +1,6 @@
 Time : 0.06 || Mem : 14.9 || Result : 30% AC
 
-
+// Link to the problem : https://www.codechef.com/MARCH20B/problems/LAZER/
 
 #include<bits/stdc++.h>
 using namespace std;
